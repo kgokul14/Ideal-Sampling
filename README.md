@@ -60,6 +60,8 @@ plt.show()
 ```
 # Output Waveform
 
+
+
 <img width="1189" height="790" alt="download" src="https://github.com/user-attachments/assets/c1fc1a30-5338-4dd2-8704-d0647901532a" />
 
 
